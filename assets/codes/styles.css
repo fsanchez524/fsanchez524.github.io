@@ -1,0 +1,23 @@
+p.texto_normal{
+    color: white;
+    font-weight: 500;
+    font-size: 16px;
+}
+
+b.texto_normal{
+    color: white;
+    font-weight: 700;
+    font-size: 16px;
+    text-decoration: underline;
+}
+
+/* DIVIONES */
+div.division{
+    background: url("/assets/images/hexagon.png") no-repeat center;
+    background-size: cover;
+    background-blend-mode: multiply;
+    border: 5px solid red;
+    justify-content: space-between;
+    align-items: center;
+    text-align: center;
+}

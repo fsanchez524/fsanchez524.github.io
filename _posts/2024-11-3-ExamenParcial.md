@@ -13,9 +13,6 @@ Pasos preliminares:
 ![alt text](/assets/images/parcial/files_server_creado.png)
 
 
-
-
-
 ### Instrucciones:
 1) **Escaneo de Red y Enumeración de Servicios (2 puntos)**
 *Utiliza Nmap desde tu máquina atacante para descubrir servicios activos en la máquina objetivo. Debes identificar los puertos relacionados con SMB y verificar si SMBv1 está habilitado.
@@ -125,23 +122,12 @@ Tip adicional: Después de ejecutar el script vssown.vbs, toma nota de la ubicac
 
 #### Procedimiento en Meterpreter para copiar una archivo al host remoto
 Recordar que la ID de la sesión actual es *4*.
-- 
 
-6) Análisis de los Archivos Exfiltrados (2 puntos)
-Una vez que hayas descargado los archivos SAM y SYSTEM, describe el procedimiento que seguirías en tu máquina atacante para extraer los hashes de contraseñas. Especifica qué herramientas emplearías para realizar esta tarea.
-
+6) **Análisis de los Archivos Exfiltrados (2 puntos)**
+*Una vez que hayas descargado los archivos SAM y SYSTEM, describe el procedimiento que seguirías en tu máquina atacante para extraer los hashes de contraseñas. Especifica qué herramientas emplearías para realizar esta tarea.
 Tip: Una vez descargados los archivos SAM y SYSTEM a tu máquina Kali Linux, usa herramientas como samdump2 para extraer los hashes.
+Tip adicional: Con los hashes extraídos, puedes intentar descifrarlos con herramientas como John the Ripper o Hashcat.*
 
-Tip adicional: Con los hashes extraídos, puedes intentar descifrarlos con herramientas como John the Ripper o Hashcat.
-
-7) Requisitos de Documentación
-Documentar en su respectivo blog.
-
-Para cada paso, proporciona capturas de pantalla y explica en tus propias palabras qué estás haciendo y por qué es relevante en un proceso de auditoría de seguridad.
-
-Asegúrate de usar herramientas comunes en entornos de pentesting (por ejemplo, Nmap, Metasploit, samdump2, John the Ripper).
-
-Tip: Asegúrate de capturar cada paso clave con capturas de pantalla y explica en tu blog lo que hace cada comando o herramienta.
 
 
 

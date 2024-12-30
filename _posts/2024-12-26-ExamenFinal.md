@@ -1,6 +1,6 @@
 ---
 title: EXAMEN FINAL DE CIBERSEGURIDAD
-date: 2024-12-29 00:00:00 -05:00
+date: 2024-12-26 00:00:00 -05:00
 categories: [sysmon, procmon, cibersecurity, pentesting]
 tags: [caldera, sysmon, procmon, kali, metasploit]  # TAG names should always be lowercase
 ---

@@ -168,16 +168,16 @@ Se puede emplear los siguientes filtros para detectar procesos críticos (como c
 
   <li id="art2">Smiliotopoulos, C., Kambourakis, G. & Barbatsalou, K. "On the detection of lateral movement through supervised machine learning and an open-source tool to create turnkey datasets from Sysmon logs". Int. J. Inf. Secur. 22, 1893-1919 (2023). https://doi.org/10.1007/s10207-023-00725-8[Online] <a href="https://link.springer.com/content/pdf/10.1007/s10207-023-00725-8.pdf">https://link.springer.com/content/pdf/10.1007/s10207-023-00725-8.pdf</a></li>
 
-  <li id="art3">R. -V. Mahmoud, M. Anagnostopoulos, S. Pastrana and J. M. Pedersen, "Redefining Malware Sandboxing: Enhancing Analysis Through Sysmon and ELK Integration," in IEEE Access, vol. 12, pp. 68624-68636, 2024, doi: 10.1109/ACCESS.2024.3400167.[Online] <a href="https://ieeexplore.ieee.org/ielx7/6287639/6514899/10529261.pdf">https://ieeexplore.ieee.org/ielx7/6287639/6514899/10529261.pdf</a></li>
+  <li id="art3">R. -V. Mahmoud, M. Anagnostopoulos, S. Pastrana and J. M. Pedersen, "Redefining Malware Sandboxing: Enhancing Analysis Through Sysmon and ELK Integration," in IEEE Access, vol. 12, pp. 68624-68636, 2024, doi: 10.1109/ACCESS.2024.3400167.[Online] https://ieeexplore.ieee.org/ielx7/6287639/6514899/10529261.pdf</li>
 
-  <li id="art4">H. Brunner. "Detecting privacy leaks in the private browsing mode of modern web browsers through process monitoring". (Doctoral dissertation, Technische Universität Wien, 2014). [Online] <a href="https://web.archive.org/web/20220128143407id_/https://repositum.tuwien.at/bitstream/20.500.12708/8355/2/Brunner%20Herbert%20-%202014%20-%20Detecting%20privacy%20leaks%20in%20the%20private%20browsing%20mode%20of...pdf"> https://web.archive.org/web/20220128143407id_/https://repositum.tuwien.at/bitstream/20.500.12708/8355/2/Brunner%20Herbert%20-%202014%20-%20Detecting%20privacy%20leaks%20in%20the%20private%20browsing%20mode%20of...pdf</a></li>
+  <li id="art4">H. Brunner. "Detecting privacy leaks in the private browsing mode of modern web browsers through process monitoring". (Doctoral dissertation, Technische Universität Wien, 2014). [Online] https://web.archive.org/web/20220128143407id_/https://repositum.tuwien.at/bitstream/20.500.12708/8355/2/Brunner%20Herbert%20-%202014%20-%20Detecting%20privacy%20leaks%20in%20the%20private%20browsing%20mode%20of...pdf</li>
 
-  <li id="art5">U. E., E., & S. I., E. (2024). "Cuckoo Sandbox and Process Monitor (Procmon) Performance Evaluation in Large-Scale Malware Detection and Analysis". British Journal of Computer, Networking and Information Technology. [Online] <a href="abjournals.org/bjcnit/wp-content/uploads/sites/11/journal/published_paper/volume-7/issue-4/BJCNIT_FCEDOOMY.pdf">abjournals.org/bjcnit/wp-content/uploads/sites/11/journal/published_paper/volume-7/issue-4/BJCNIT_FCEDOOMY.pdf</a></li>
+  <li id="art5">U. E., E., & S. I., E. (2024). "Cuckoo Sandbox and Process Monitor (Procmon) Performance Evaluation in Large-Scale Malware Detection and Analysis". British Journal of Computer, Networking and Information Technology. [Online] abjournals.org/bjcnit/wp-content/uploads/sites/11/journal/published_paper/volume-7/issue-4/BJCNIT_FCEDOOMY.pdf</li>
 
-  <li id="art6">JACOBSEN, M. Douglas. "Procmon: Real-time process monitoring on the Cray XC-30". [Online] <a href="https://cug.org/proceedings/cug2015_proceedings/includes/files/pap175-file1.pdf">https://cug.org/proceedings/cug2015_proceedings/includes/files/pap175-file1.pdf</a></li>
+  <li id="art6">JACOBSEN, M. Douglas. "Procmon: Real-time process monitoring on the Cray XC-30". [Online] https://cug.org/proceedings/cug2015_proceedings/includes/files/pap175-file1.pdf</li>
 
-  <li id="art7">Microsoft. SysInternals. PROCMON [Online] <a href="https://learn.microsoft.com/en-us/sysinternals/downloads/procmon">https://learn.microsoft.com/en-us/sysinternals/downloads/procmon</a></li>
+  <li id="art7">Microsoft. SysInternals. PROCMON [Online] https://learn.microsoft.com/en-us/sysinternals/downloads/procmon</li>
 
-  <li id="art8"> Microsoft. SysInternals. SYSMON [Online] <a href="https://learn.microsoft.com/es-es/sysinternals/downloads/sysmon">https://learn.microsoft.com/es-es/sysinternals/downloads/sysmon</a></li>
+  <li id="art8"> Microsoft. SysInternals. SYSMON [Online] https://learn.microsoft.com/es-es/sysinternals/downloads/sysmon</li>
 
 </ol>

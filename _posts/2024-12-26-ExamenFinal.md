@@ -5,21 +5,6 @@ categories: [sysmon, procmon, cibersecurity, pentesting]
 tags: [caldera, sysmon, procmon, kali, metasploit]  # TAG names should always be lowercase
 ---
 
-<style>
-ol.ieee {
-  list-style: none; /* Elimina el estilo de lista predeterminado */
-  counter-reset: item; /* Inicializa el contador */
-}
-
-ol.ieee li {
-  counter-increment: item; /* Incrementa el contador para cada elemento */
-}
-
-ol.ieee li::before {
-  content: "[" counter(item) "] "; /* Inserta el número entre corchetes */
-}
-</style>
-
 <marquee behavior="alternate" style="font-size: 32px; font-weight: 800; font-family: Algerian" >EXAMEN FINAL</marquee>
 
 <hr style="border-top: 10px double lightgreen">
@@ -178,7 +163,7 @@ Se puede emplear los siguientes filtros para detectar procesos críticos (como c
 
 ## **REFERENCIAS**
 
-<ol class="ieee">
+<ol>
   <li id="art1">R. Thomas, S. Steiner & D. Conte de Leon (2022). "HESPIDS: A Hierarchical and Extensible System for Process Injection Detection using Sysmon". 10.24251/HICSS.2022.905. [Online] <a href="https://scholarspace.manoa.hawaii.edu/server/api/core/bitstreams/1d5579e9-c7d4-411f-b166-6ef2de97cbd2/content">https://scholarspace.manoa.hawaii.edu/server/api/core/bitstreams/1d5579e9-c7d4-411f-b166-6ef2de97cbd2/content</a></li>
 
   <li id="art2">Smiliotopoulos, C., Kambourakis, G. & Barbatsalou, K. "On the detection of lateral movement through supervised machine learning and an open-source tool to create turnkey datasets from Sysmon logs". Int. J. Inf. Secur. 22, 1893-1919 (2023). https://doi.org/10.1007/s10207-023-00725-8[Online] <a href="https://link.springer.com/content/pdf/10.1007/s10207-023-00725-8.pdf">https://link.springer.com/content/pdf/10.1007/s10207-023-00725-8.pdf</a></li>

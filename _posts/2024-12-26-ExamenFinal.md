@@ -39,10 +39,6 @@ _**SYSMON :**_
 
 Por otro lado, *Sysmon* se encarga de la captura de eventos realacionados con el proceso en cuestión y determina algunos eventos etiquetados como por ejemplo: *ProcessCreate*, *FileCreate* y *NetworkConnect*, que indican la creación de un proceso, creación de un archivo y conexión de red implementada respectivamente. Estos eventos pueden ser almacenados y analizados luego mediante un software o código para aplicar Machine Learning o algún método de detección de procesos anormales.
 
-![alt text](/assets/images/images_Post_007/part1/image-39.png)
-
-![alt text](/assets/images/images_Post_007/part1/image-38.png)
-
 Cuadro de relación entre operaciones y eventos de **Procmon** y **Sysmon** para captura de eventos maliciosos:
 
 |**Evento/Proceso**|**PROCMON**|**SYSMON**|
